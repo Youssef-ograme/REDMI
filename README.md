@@ -1,54 +1,100 @@
-<h1 align="center">Salam, ana [SMITEK] 👋</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="1337 Khouribga - 42 Network" width="100%" />
+</p>
+
+<h1 align="center">[Your Full Name]</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/1337-Khouribga-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/42-Network-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made%20in-Morocco%20🇲🇦-c1272d?style=for-the-badge" />
+  <b>Software Engineering Student at 1337 Khouribga (42 Network)</b><br/>
+  Systems programming · C · Unix · Algorithms
 </p>
 
 <p align="center">
-  <i>"No teachers. No classes. Just peers, projects and a lot of coffee." ☕</i>
+  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://profile.intra.42.fr/users/LOGIN"><img src="https://img.shields.io/badge/42%20Intra-000000?style=for-the-badge&logo=42&logoColor=white" /></a>
 </p>
+
+---
+
+<!--
+  OPTIONAL: add your own photo (campus, event, you).
+  1. Put the image in the "assets" folder, e.g. assets/1337-photo.jpg
+  2. Remove the comment markers around the block below.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=000000&style=flat" />
+  <img src="assets/1337-photo.jpg" alt="1337 Khouribga" width="80%" />
 </p>
+-->
 
-## 🎓 L7a9i9a
-- 🏫 Student f **1337 Khouribga** (42 Network)
-- 🏊 Dert **Piscine** w nj7et 💪
-- 🔭 Kankhddem 3la **projets jdad kol nhar**
-- 🌱 Kant3elem **C, Unix, Git, algorithmes**
-- 💬 Sewlni 3la **peer-learning w l7yat f 1337**
+## About Me
 
-## 🛠️ Technologies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I'm a student at **1337 Khouribga**, a tuition-free, peer-to-peer coding school that is part of the **42 Network**. There are no teachers and no lectures: learning happens through projects, peer evaluations and collaboration.
 
-## 📊 GitHub Stats
+I enjoy understanding how software works at a low level: memory, processes, file descriptors, and the Unix environment. I'm currently looking for an **internship** where I can apply these skills and keep growing as an engineer.
+
+## Technical Skills
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools and Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Makefile](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=gnu&logoColor=white)
+
+**Core Concepts**
+
+| Area | Topics |
+|------|--------|
+| Systems | Processes, signals, pipes, file descriptors, threads, mutexes |
+| Memory | Dynamic allocation, leak detection (Valgrind), debugging (GDB) |
+| Algorithms | Sorting, complexity analysis, data structures |
+| Practices | Version control, code review, norm compliance, peer evaluation |
+
+## How I Work
+
+- **Clean, readable code.** I follow strict coding standards and write code others can review.
+- **Learning by building.** I prefer understanding the fundamentals over relying on abstractions.
+- **Collaboration.** Peer evaluation taught me to explain my reasoning and give constructive feedback.
+- **Persistence.** The 42 method is built on problem-solving without ready-made answers.
+
+## Learning Path
+
+| Stage | Focus |
+|-------|-------|
+| Piscine | Intensive selection bootcamp: C, shell, Git, autonomy |
+| Core Curriculum | Libraries, algorithms, Unix programming, graphics, concurrency |
+| Advanced Branches | Networking, web, system administration, C++ (in progress) |
+
+## Featured Projects
+
+Pinned repositories on my profile showcase my best work. Each one includes a README with build instructions and a short explanation of the approach.
+
+## Currently
+
+- Progressing through the 42 core curriculum
+- Deepening my knowledge of [networking / web development / algorithms]
+- Seeking an internship in software development
+
+## Let's Connect
+
+I'm always happy to talk about programming, the 1337 experience, or opportunities.
+
+**LinkedIn:** [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
+**Email:** email@example.com
+**42 Intra:** [LOGIN](https://profile.intra.42.fr/users/LOGIN)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" height="170" />
+  <img src="assets/banner.svg" alt="" width="100%" />
 </p>
-
-## 🧠 Norminette mode
-```c
-#include <stdio.h>
-
-int	main(void)
-{
-	printf("Hello 1337! 🇲🇦\n");
-	return (0);
-}
-```
-
-## 📫 Twasel m3aya
-[![Intra](https://img.shields.io/badge/Intra-LOGIN-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/LOGIN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
-
-<p align="center"><i>"Norminette is my best friend (and worst enemy)." 😅</i></p>
