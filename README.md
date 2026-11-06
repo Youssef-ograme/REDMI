@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="1337 Khouribga - 42 Network" width="100%" />
 </p>
 
-<h1 align="center">[Your Full Name]</h1>
+<h1 align="center">[ENZO]</h1>
 
 <p align="center">
   <b>Software Engineering Student at 1337 Khouribga (42 Network)</b><br/>
